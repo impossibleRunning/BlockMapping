@@ -1,0 +1,7 @@
+﻿  main.c
+e:\ftl 논문\blkmap\main.c : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+e:\ftl 논문\blkmap\blkmap.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+e:\ftl 논문\blkmap\main.c(67): warning C4047: '함수': 'char *'의 간접 참조 수준이 'char'과(와) 다릅니다.
+e:\ftl 논문\blkmap\main.c(67): warning C4024: 'ftl_write': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+e:\ftl 논문\blkmap\main.c(34): warning C4101: 'lsn' :참조되지 않은 지역 변수입니다.
+  blkmapping.vcxproj -> C:\Users\DB-LAB\source\repos\blkmapping\Debug\blkmapping.exe
